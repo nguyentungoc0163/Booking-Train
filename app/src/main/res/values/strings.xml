@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="txtName">Name</string>
+    <string name="txtPhone">Phone</string>
+    <string name="rdSeat">Seat</string>
+    <string name="rdBoth">Both</string>
+
+    <string name="btnCancel">Cancel</string>
+    <string name="btnBook">Book</string>
+
+    <string name="vip_member">Vip Member</string>
+
+
+    <string name="book">Book</string>
+    <string name="cancel">Cancel</string>
+    <string name="the_seat_type">The Seat Type</string>
+    <string name="Currency">Currency</string>
+    <string-array name="lan_array">
+        <item>USD</item>
+        <item>VND</item>
+    </string-array>
+</resources>
